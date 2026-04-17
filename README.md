@@ -1,0 +1,1 @@
+This project is a simple Q&A chatbot built using LangChain, Streamlit, and Google Gemini API. The main goal of this project was to learn how to work with LangChain pipelines, integrate LLMs into applications, and build an interactive chatbot interface. It demonstrates prompt engineering, API integration, and basic LLM application development.
